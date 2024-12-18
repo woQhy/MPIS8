@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab 08. Nikiforov Aleks AS-63</string>
+    <string name="text_view">TextView</string>
+    <string name="loadBtn">Load Data</string>
+    <string name="author">Никифоров Александр Иванович</string>
+    <string name="authorBtn">Author</string>
+    <string name="emptyList">Press «Load Data» for load data</string>
+    <string name="backBtn">Go back</string>
+</resources>
